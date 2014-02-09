@@ -1,0 +1,28 @@
+// Place all the styles related to the Welcome2 controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+// Our SCSS
+
+$background-color: #fafafa;
+$sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif: Baskerville,Georgia, "Times New Roman", serif;
+$text-color: #222222;
+$link-color: #0000aa;
+
+body { background-color: $background-color;color:$text-color}
+.welcome {
+  font-family:$serif;
+  width:41em;
+  margin: 50px auto;
+  p {
+    background-color:#444;
+    color: #eee;
+    li {
+      font-family: bold;
+      a {
+        color: darken($link-color, 20%);
+        font-family:$sans-serif;
+      }
+    }
+  }
+}
