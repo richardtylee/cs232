@@ -1,8 +1,0 @@
-<h1>CS232 Demo App</h1>
-<p>Welcome to the CS232 Demo App.  This app begins with Lab 2.</p>
-<p>
-	<ul>
-		<li><a href="/users">Users</a></li>
-		<li><a href="/microposts">Microposts</a></li>
-	</ul>
-</p>
