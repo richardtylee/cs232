@@ -1,0 +1,12 @@
+// Place all the styles related to the ccsf_rails controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$niners_gold: #C8AA76;
+$niners_red: #AA0000;
+
+body {
+	background-color: $niners_gold;
+	color: $niners_red;
+}
+
