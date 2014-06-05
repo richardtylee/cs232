@@ -1,3 +1,13 @@
+# Ignore bundler config.
+/sample_app/.bundle
+
+# Ignore the default SQLite database.
+/sample_app/db/*.sqlite3
+/sample_app/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/sample_app/log/*.log
+/sample_app/tmp
 
 /*.zip
 /*.metadata
