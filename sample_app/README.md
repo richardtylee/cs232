@@ -1,6 +1,6 @@
-== README
-
 # Microblogger : Ruby on Rails Tutorial
+
+Deployment Link: https://richardtylee-microblogger.herokuapp.com/
 
 Microblogger is a sample application for 
 [CS232](http://hackingthevalley.com/ccsf/rails) Ruby on Rails Development 
